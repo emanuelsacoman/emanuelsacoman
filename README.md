@@ -21,6 +21,7 @@
   <a href="https://bityli.com/Steam-Insta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/GAXgpK8be4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:emanuelsacoman@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://open.spotify.com/user/31ikb6rcqitw6twbnfim7cmjsuvm?si=0dda48772bb84b24"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href = "https://steamcommunity.com/id/evs444/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/EvS444/EvS444/blob/output/github-contribution-grid-snake.svg)
