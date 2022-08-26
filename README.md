@@ -26,6 +26,6 @@
     <a href = "https://open.spotify.com/user/31ikb6rcqitw6twbnfim7cmjsuvm?si=0dda48772bb84b24"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
     <a href = "https://steamcommunity.com/id/evs444/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
-  ![Snake animation](https://github.com/EvS444/EvS444/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EvS444/EvS444/blob/output/github-contribution-grid-snake.svg)
  
 
