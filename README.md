@@ -24,3 +24,7 @@
     <a href = "https://open.spotify.com/user/31ikb6rcqitw6twbnfim7cmjsuvm?si=0dda48772bb84b24"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<div>
+  [![Spotify](https://novatorem-ayspw82cb-evs444.vercel.app/api/spotify)](https://open.spotify.com/user/EvS444)
+</div>
