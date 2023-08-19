@@ -24,11 +24,3 @@
     <a href = "https://open.spotify.com/user/31ikb6rcqitw6twbnfim7cmjsuvm?si=0dda48772bb84b24"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   
 </div>
-  
-<div>
-
-![Snake animation](https://github.com/EvS444/EvS444/blob/output/github-contribution-grid-snake.svg)
-
-</div>
- 
-
