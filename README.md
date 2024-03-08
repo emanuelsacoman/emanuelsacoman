@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">-🎓 I'm currently making my Final Paper;<br>-📚 I'm studying Systems Analysis and Development at UniGuairacá College;<br>-💡 In my free time I make a game on Unity, a Discord bot and play video games.</p>
+<p align="left">-🎓 I'm currently making my Final Paper;<br>-📚 I'm studying Systems Analysis and Development at UniGuairacá College;<br>-💡 In my free time I'm making a Unity game, a Discord bot and playing video games.</p>
 
 ###
 
