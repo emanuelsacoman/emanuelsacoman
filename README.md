@@ -1,29 +1,79 @@
-### Olá, me chamo Emanuel. Seja bem-vindo(a)!
 <div align="center">
-  <a href="https://github.com/emanuelsacoman">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelsacoman&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelsacoman&layout=compact&langs_count=7&theme=radical"/>
+  <img height="200" src="https://cdn.akamai.steamstatic.com/steam/apps/1398910/extras/IDJ_BannerStore.gif?t=1706728035"  />
 </div>
-<div style="display: block" align="center"><br>
-  <img align="center" alt="Ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
 
-          
-  
-  
-  
-</div>
-  
-  ##
+###
+
 <div align="center">
-  
-  <a href = "https://www.linkedin.com/in/emanuel-vinícius-sacoman-984087250/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:emanuelsacoman@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/emanuelitow/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-    <a href = "https://open.spotify.com/user/31ikb6rcqitw6twbnfim7cmjsuvm?si=0dda48772bb84b24"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/emanuel-vinícius-sacoman-984087250/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:emanuelsacoman@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/emanuelitow/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=emanuelsacoman.emanuelsacoman&"  />
+</div>
+
+###
+
+<h2 align="center">hi there! 👋</h2>
+
+###
+
+<h3 align="left">👨‍💻 About me</h3>
+
+###
+
+<p align="left">My name is Emanuel, i'm from Brazil, PR</p>
+
+###
+
+<p align="left">-🎓 I'm currently making my Final Paper;<br>-📚 I'm studying Systems Analysis and Development at UniGuairacá College;<br>-💡 In my free time I make a game on Unity, a Discord bot and play video games.</p>
+
+###
+
+<h3 align="left">🛠️ Languages and tools</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emanuelsacoman&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelsacoman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="35" alt="ionic logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="35" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="35" alt="discordjs logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/emanuelsacoman/emanuelsacoman/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### Ouvindo Spotify 🎧
 
