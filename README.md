@@ -75,6 +75,6 @@
 
 ###
 
-### Ouvindo Spotify 🎧
+### Listening Spotify 🎧
 
   [![Spotify](https://novatorem-ayspw82cb-evs444.vercel.app/api/spotify)](https://open.spotify.com/user/EvS444)
