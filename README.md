@@ -1,6 +1,8 @@
 <div align="center">
-  <img height="200" src="https://cdn.akamai.steamstatic.com/steam/apps/1398910/extras/IDJ_BannerStore.gif?t=1706728035"  />
+  <img height="200" src="https://nerdlicious.com.br/wp-content/uploads/2023/06/Irmao-do-Jorel-e-o-Jogo-Mais-Importante-da-Galaxia-gameplay-1.gif"  />
 </div>
+
+###
 
 ###
 
