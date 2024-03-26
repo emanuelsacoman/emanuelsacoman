@@ -79,4 +79,5 @@
 
 ### 🎧 Listening Spotify 
 
-  [![Spotify](https://novatorem-ayspw82cb-evs444.vercel.app/api/spotify)](https://open.spotify.com/user/EvS444)
+  [![Spotify](https://novatorem-ayspw82cb-evs444.vercel.app/api/spotify)]([https://open.spotify.com/user/EvS444](https://open.spotify.com/user/31ikb6rcqitw6twbnfim7cmjsuvm?si=4ddecee7b5d644c3)https://open.spotify.com/user/31ikb6rcqitw6twbnfim7cmjsuvm?si=4ddecee7b5d644c3)
+  
