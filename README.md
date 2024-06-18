@@ -38,7 +38,11 @@
 
 ###
 
-<p align="left">-🎓 My final paper is done;<br>-📚 I'm studying Software Engineering at UniGuairacá College;<br>-💡 In my free time I'm making a Unity game, a Discord bot and playing video games.</p>
+<p align="left">
+- 🎓 My final paper for the Systems Analysis and Development course is done;<br>
+- 📚 I'm studying Software Engineering at UniGuairacá College;<br>
+- 💡 In my free time I'm making a Unity game, a Discord bot, and playing video games.
+</p>
 
 ###
 
