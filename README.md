@@ -83,6 +83,11 @@
   
 </div>
 
+<div align="left">
+  <h3>🎮 Square Waves - A project i'm working on </h3>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFnMXl0MXJ0ZHhqYmZ3b2d1djFkcG81b3Rmb2VmN2RsMmo1dXJmeiZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/yReUo9Iaa2Qw9M5bi4/giphy.gif" width="400" />
+</div>
+
 ###
 
 <img src="https://raw.githubusercontent.com/emanuelsacoman/emanuelsacoman/output/snake.svg" alt="Snake animation" />
