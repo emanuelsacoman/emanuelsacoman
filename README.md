@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">My name is Emanuel, i'm from Brazil, PR</p>
+<p align="left">My name is Emanuel, i'm from Brazil, MG</p>
 
 ###
 
