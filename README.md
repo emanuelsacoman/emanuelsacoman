@@ -83,12 +83,12 @@
   
 </div>
 
-<div align="left">
+<div align="center">
   <h3>🎮 Square Waves - A project i'm working on </h3>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFnMXl0MXJ0ZHhqYmZ3b2d1djFkcG81b3Rmb2VmN2RsMmo1dXJmeiZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/yReUo9Iaa2Qw9M5bi4/giphy.gif" width="400" />
-</div>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/63565495/417717140-56009ca6-8c26-436e-bc00-186864f1ab57.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250227T173526Z&X-Amz-Expires=300&X-Amz-Signature=23f4b4526c062cc866dc8b07eabef5f1374224ce814ba12ff65f8f13e159be58&X-Amz-SignedHeaders=host" width="100%"> 
 
-###
+  <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFnMXl0MXJ0ZHhqYmZ3b2d1djFkcG81b3Rmb2VmN2RsMmo1dXJmeiZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/yReUo9Iaa2Qw9M5bi4/giphy.gif" width="500" />
+</div>
 
 <img src="https://raw.githubusercontent.com/emanuelsacoman/emanuelsacoman/output/snake.svg" alt="Snake animation" />
 
