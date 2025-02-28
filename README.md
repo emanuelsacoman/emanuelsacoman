@@ -98,7 +98,8 @@
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFnMXl0MXJ0ZHhqYmZ3b2d1djFkcG81b3Rmb2VmN2RsMmo1dXJmeiZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/yReUo9Iaa2Qw9M5bi4/giphy.gif" width="49%" />
-  <img src="https://private-user-images.githubusercontent.com/63565495/417719298-7cb46eed-c548-4e93-8abf-05e7638e4c45.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA2Nzg1NjYsIm5iZiI6MTc0MDY3ODI2NiwicGF0aCI6Ii82MzU2NTQ5NS80MTc3MTkyOTgtN2NiNDZlZWQtYzU0OC00ZTkzLThhYmYtMDVlNzYzOGU0YzQ1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjI3VDE3NDQyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcxMTc0N2Y5ZDI2YWM2ZTIwOTZmZTM2Yzk3NGVjYjY3ZTg2YzM3OTYwMjJmYjY3YWI3N2ZkYzY1ZGJiNWIzNDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZYCbPJaE0S7CGBeH7ATTnqE5DXpChj9EFNiu9UdVS44" width="50%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3U2ZHlpdHhyOXFwbXYwMDUxZzNmaWV6NmI4ZWJrOW0xOHJ0NjFmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T5y0G99gXTgWOvjuJe/giphy.gif" width="50%" />
+  
 </div>
 
 </div>
