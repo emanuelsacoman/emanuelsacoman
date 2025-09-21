@@ -39,10 +39,10 @@
 ###
 
 <p align="left">  
-- 🎓 I have a degree in Systems Analysis and Development;<br>  
-- 🏆 I scored 100 on my final project;<br>  
-- 💡 In my free time, I'm making a Unity game, a Discord bot, and playing video games;<br>  
-- 💻 I'm currently working on freelance projects, focused solely on web development.  
+- 🎓 I have two degree in Systems Analysis and Development;<br>  
+- 🎓 I'm in my last year of Software Engineering;<br> 
+- 🏆 I scored 100 on my final project at my first degree at System Analysis and Development;<br>  
+- 💡 In my free time, i'm currently making a ecommerce and a Unity game.<br>
 </p>
 
 ###
