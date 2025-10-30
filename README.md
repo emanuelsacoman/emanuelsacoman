@@ -39,10 +39,11 @@
 ###
 
 <p align="left">  
-- 🎓 I have two degree in Systems Analysis and Development;<br>  
-- 🎓 I have a degree in Software Engineering;<br> 
-- 🏆 I scored 100 on my final project at my first degree at System Analysis and Development;<br>  
-- 💡 In my free time, i'm currently making a ecommerce and a Unity game.<br>
+  • 👋 I'm Emanuel, a software engineer from Brazil 🇧🇷 passionate about building intuitive and efficient applications.<br>
+  • ⚡ Currently working as a <b>Substation Programmer</b>, developing automation and control systems for electric substations.<br>
+  • 🎓 Double degree in <b>Systems Analysis and Development</b> & <b>Software Engineering</b>.<br>
+  • 💡 Developing an <b>e-commerce platform</b> and a <b>Unity indie game</b> as personal projects.<br>
+  • 🚀 Always exploring new technologies to turn ideas into impactful digital experiences.
 </p>
 
 ###
