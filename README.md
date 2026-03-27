@@ -42,6 +42,7 @@
   • 👋 I'm a software engineer passionate about building intuitive and efficient applications.<br>
   • ⚡ Currently working as a <b>Substation Programmer</b>, developing automation and control systems for electric substations.<br>
   • 🎓 Degree in <b>Systems Analysis and Development</b> & <b>Software Engineering</b>.<br>
+  • 🎓 Currently specializing in <b>Web Development</b>.<br>
   • 💡 Developing an <b>e-commerce platform</b> and a <b>Unity indie game</b> as personal projects.<br>
   • 🚀 Always exploring new technologies to turn ideas into impactful digital experiences.
 </p>
