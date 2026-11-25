@@ -92,7 +92,11 @@
 
 ### 🎧 Listening to Spotify
 
-[![Spotify](https://novatorem-ayspw82cb-evs444.vercel.app/api/spotify)](https://open.spotify.com/user/31ikb6rcqitw6twbnfim7cmjsuvm)
+<div align="center">
+
+[![Spotify](https://novatorem-bice-omega.vercel.app/api/spotify?v=3)](https://open.spotify.com/user/31ikb6rcqitw6twbnfim7cmjsuvm)
+
+</div>
 
 <div align="left">
   <h3>🎮 Square Waves - A project i'm working on </h3>
