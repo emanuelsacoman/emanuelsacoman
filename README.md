@@ -94,7 +94,7 @@
 
 <div align="center">
 
-[![Spotify](https://novatorem-bice-omega.vercel.app/api/spotify?v=3)](https://open.spotify.com/user/31ikb6rcqitw6twbnfim7cmjsuvm)
+[![Spotify](https://novatorem-git-feat-spotify-widget-v2-evs444s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31ikb6rcqitw6twbnfim7cmjsuvm)
 
 </div>
 
